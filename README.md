@@ -6,7 +6,9 @@
     
    ### Progress
    
-    Currently working in this project as side project, learning Operating System building processes and usage of Cryptography techniques.     I am contributing to this project as it is my curiosity to understand and to implement Cryptography based Peer to Peer Operating           System and how it works.
+    Currently working in this project as side project, learning Operating System building processes and usage of Cryptography techniques.
+    I am contributing to this project as it is my curiosity to understand and to implement Cryptography based Peer to Peer Operating
+    System and how it works.
     
     
   ### Support and Contact
